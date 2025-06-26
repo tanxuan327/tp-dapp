@@ -1,0 +1,13 @@
+{
+  "name": "walletconnect-tron",
+  "type": "module",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "@walletconnect/sign-client": "^2.21.4"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
